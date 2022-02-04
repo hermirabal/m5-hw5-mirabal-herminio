@@ -1,1 +1,31 @@
+header{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;  
+}
 
+body{ background-image: url(moroccan-flower.png);}
+main {
+    max-width: 350px;
+    margin: auto;
+    text-align: justify;
+    background-color: oldlace;
+    font-family: sans-serif:Verdana, Geneva, Tahoma, sans-serif;
+      
+}
+
+img{float: left;
+    padding: 10px;
+}
+
+nav{float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;}
+
+
+aside{ float: right;
+    max-width: 500px;
+    background-color: oldlace;
+
+
+}
